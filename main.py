@@ -1,6 +1,7 @@
 import os
 import re
 import DictOfNumbers
+#test string
 def getFullNextWord(startIndex, text):
     textFind = ''
     while text[startIndex] in [' ']:
